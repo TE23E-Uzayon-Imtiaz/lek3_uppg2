@@ -1,0 +1,20 @@
+body{
+    background-image: url(./img/ek.jpg);
+}
+h1{
+    text-align: center;
+    background-color:lightblue;
+    color:coral ;
+}
+h2{
+    background-color: purple;
+    color:aquamarine
+    
+}
+li a{
+    background-color: black;
+    color: white;
+}
+p{
+    background-color: white;
+}
